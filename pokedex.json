@@ -1,9 +1,9 @@
 [{
     "id": 22,
    "name": {
-      "english": "changes",
-      "japanese": "changes",
-      "chinese": "changes",
+      "english": "new",
+      "japanese": "new",
+      "chinese": "new",
       "french": "Bulbizarre"
     },
     "type": [

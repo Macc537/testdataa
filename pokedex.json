@@ -1,7 +1,10 @@
 [{
     "id": 22,
-    "name": {
-      "english": "z"
+   "name": {
+      "english": "Bulbasaur",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子",
+      "french": "Bulbizarre"
     },
     "type": [
       "Grass",

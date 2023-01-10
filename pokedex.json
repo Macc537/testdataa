@@ -1,9 +1,9 @@
 [{
     "id": 22,
    "name": {
-      "english": "changefourth",
-      "japanese": "changefourth",
-      "chinese": "changesfourth",
+      "english": "change",
+      "japanese": "change",
+      "chinese": "change",
       "french": "Bulbizarre"
     },
     "type": [
